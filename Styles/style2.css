@@ -1,0 +1,50 @@
+h1 {
+    color:blue;
+    background-color: green;
+}
+
+#specialH1 {
+    border:15px dashed pink;
+}
+
+.fancyText {
+    background-color: lightgrey;
+    color:darkblue;
+    border: 2px darkblue solid;
+
+}
+
+.buttonLink {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+    color:darkblue;
+    border: 2px darkblue solid;
+    margin: 10px;
+    padding:10px;
+    display: block;
+    width:100px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.buttonLink:hover{
+    background-color: darkblue;
+    color:lightgray;
+    border: 2px lightgray solid;
+}
+
+.smallImg{
+    width:100px;
+}
+
+.cardBg {
+    background-color: lightgray;
+}
+
+
+.cardSmall{
+    height:100px;
+    overflow: hidden;
+}
